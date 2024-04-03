@@ -4,3 +4,6 @@
 [submodule "HeadPose"]
 	path = HeadPose
 	url = git@github.com:0Mayank/HeadPose.git
+[submodule "gesture_rust_python_ipc"]
+	path = gesture_rust_python_ipc
+	url = git@github.com:RohitShaw340/gesture_rust_python_ipc.git
