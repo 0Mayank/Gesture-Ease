@@ -1,0 +1,6 @@
+[submodule "gesture-ease-rs"]
+	path = gesture-ease-rs
+	url = git@github.com:0Mayank/gesture-ease-rs.git
+[submodule "HeadPose"]
+	path = HeadPose
+	url = git@github.com:0Mayank/HeadPose.git
