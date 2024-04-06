@@ -7,3 +7,6 @@
 [submodule "gesture_rust_python_ipc"]
 	path = gesture_rust_python_ipc
 	url = git@github.com:RohitShaw340/gesture_rust_python_ipc.git
+[submodule "head-detection"]
+	path = head-detection
+	url = git@github.com:Aditya-giri03/head-detection.git
